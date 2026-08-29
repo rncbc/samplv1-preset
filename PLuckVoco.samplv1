@@ -1,0 +1,94 @@
+<!DOCTYPE samplv1>
+<preset name="PLuckVoco" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
+ <samples>
+  <sample name="GEN1_SAMPLE" index="0">
+   <filename>36-Kick-Urban.ogg</filename>
+   <offset-start>0</offset-start>
+   <offset-end>35982</offset-end>
+   <loop-start>899</loop-start>
+   <loop-end>3673</loop-end>
+   <loop-end-release>0</loop-end-release>
+   <loop-fade>0</loop-fade>
+   <loop-zero>1</loop-zero>
+  </sample>
+ </samples>
+ <params>
+  <param name="GEN1_SAMPLE" index="0">36</param>
+  <param name="GEN1_REVERSE" index="1">0</param>
+  <param name="GEN1_OFFSET" index="2">1</param>
+  <param name="GEN1_LOOP" index="5">1</param>
+  <param name="GEN1_OCTAVE" index="8">1.1</param>
+  <param name="GEN1_TUNING" index="9">-0.5</param>
+  <param name="GEN1_GLIDE" index="10">0</param>
+  <param name="GEN1_ENVTIME" index="11">0.5</param>
+  <param name="DCF1_ENABLED" index="12">1</param>
+  <param name="DCF1_CUTOFF" index="13">0.1</param>
+  <param name="DCF1_RESO" index="14">0.6</param>
+  <param name="DCF1_TYPE" index="15">2</param>
+  <param name="DCF1_SLOPE" index="16">1</param>
+  <param name="DCF1_ENVELOPE" index="17">1</param>
+  <param name="DCF1_ATTACK" index="18">0</param>
+  <param name="DCF1_DECAY" index="19">0.2</param>
+  <param name="DCF1_SUSTAIN" index="20">0.5</param>
+  <param name="DCF1_RELEASE" index="21">0.5</param>
+  <param name="LFO1_ENABLED" index="22">0</param>
+  <param name="LFO1_SHAPE" index="23">1</param>
+  <param name="LFO1_WIDTH" index="24">1</param>
+  <param name="LFO1_BPM" index="25">60</param>
+  <param name="LFO1_RATE" index="26">0.5</param>
+  <param name="LFO1_SYNC" index="27">0</param>
+  <param name="LFO1_SWEEP" index="28">0</param>
+  <param name="LFO1_PITCH" index="29">0</param>
+  <param name="LFO1_CUTOFF" index="30">0</param>
+  <param name="LFO1_RESO" index="31">0</param>
+  <param name="LFO1_PANNING" index="32">-0.3</param>
+  <param name="LFO1_VOLUME" index="33">0</param>
+  <param name="LFO1_ATTACK" index="34">0</param>
+  <param name="LFO1_DECAY" index="35">0.1</param>
+  <param name="LFO1_SUSTAIN" index="36">1</param>
+  <param name="LFO1_RELEASE" index="37">0.5</param>
+  <param name="DCA1_ENABLED" index="38">1</param>
+  <param name="DCA1_VOLUME" index="39">0.5</param>
+  <param name="DCA1_ATTACK" index="40">0</param>
+  <param name="DCA1_DECAY" index="41">0.4</param>
+  <param name="DCA1_SUSTAIN" index="42">0</param>
+  <param name="DCA1_RELEASE" index="43">0.4</param>
+  <param name="OUT1_WIDTH" index="44">1</param>
+  <param name="OUT1_PANNING" index="45">0</param>
+  <param name="OUT1_FXSEND" index="46">1</param>
+  <param name="OUT1_VOLUME" index="47">0.5</param>
+  <param name="DEF1_PITCHBEND" index="48">0.2</param>
+  <param name="DEF1_MODWHEEL" index="49">0.2</param>
+  <param name="DEF1_PRESSURE" index="50">0.2</param>
+  <param name="DEF1_VELOCITY" index="51">0.2</param>
+  <param name="DEF1_CHANNEL" index="52">0</param>
+  <param name="DEF1_MONO" index="53">0</param>
+  <param name="CHO1_WET" index="54">0</param>
+  <param name="CHO1_DELAY" index="55">0.5</param>
+  <param name="CHO1_FEEDB" index="56">0.5</param>
+  <param name="CHO1_RATE" index="57">0.5</param>
+  <param name="CHO1_MOD" index="58">0.5</param>
+  <param name="FLA1_WET" index="59">0.2</param>
+  <param name="FLA1_DELAY" index="60">0.5</param>
+  <param name="FLA1_FEEDB" index="61">0.5</param>
+  <param name="FLA1_DAFT" index="62">0</param>
+  <param name="PHA1_WET" index="63">0.2</param>
+  <param name="PHA1_RATE" index="64">0.5</param>
+  <param name="PHA1_FEEDB" index="65">0.5</param>
+  <param name="PHA1_DEPTH" index="66">0.5</param>
+  <param name="PHA1_DAFT" index="67">0</param>
+  <param name="DEL1_WET" index="68">0.3</param>
+  <param name="DEL1_DELAY" index="69">0.5</param>
+  <param name="DEL1_FEEDB" index="70">0.6</param>
+  <param name="DEL1_BPM" index="71">140</param>
+  <param name="REV1_WET" index="72">0.1</param>
+  <param name="REV1_ROOM" index="73">0.5</param>
+  <param name="REV1_DAMP" index="74">0.5</param>
+  <param name="REV1_FEEDB" index="75">0.5</param>
+  <param name="REV1_WIDTH" index="76">1</param>
+  <param name="DYN1_COMPRESS" index="77">0</param>
+  <param name="DYN1_LIMITER" index="78">1</param>
+  <param name="KEY1_LOW" index="79">0</param>
+  <param name="KEY1_HIGH" index="80">127</param>
+ </params>
+</preset>
