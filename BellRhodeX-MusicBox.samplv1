@@ -43,7 +43,7 @@
   <param index="30" name="LFO1_CUTOFF">0</param>
   <param index="31" name="LFO1_RESO">0</param>
   <param index="32" name="LFO1_PANNING">-0.4</param>
-  <param index="33" name="LFO1_VOLUME">1</param>
+  <param index="33" name="LFO1_VOLUME">0.2</param>
   <param index="34" name="LFO1_ATTACK">0.1</param>
   <param index="35" name="LFO1_DECAY">0.2</param>
   <param index="36" name="LFO1_SUSTAIN">0</param>
