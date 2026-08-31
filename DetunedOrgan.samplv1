@@ -50,7 +50,7 @@
   <param name="LFO1_RELEASE" index="37">0.5</param>
   <param name="DCA1_ENABLED" index="38">1</param>
   <param name="DCA1_VOLUME" index="39">0.5</param>
-  <param name="DCA1_ATTACK" index="40">0.02</param>
+  <param name="DCA1_ATTACK" index="40">0.05</param>
   <param name="DCA1_DECAY" index="41">1</param>
   <param name="DCA1_SUSTAIN" index="42">0.8</param>
   <param name="DCA1_RELEASE" index="43">0.5</param>
