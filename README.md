@@ -51,11 +51,11 @@ Before submitting, open your preset file in a text editor and include the metada
 ```
 
 ## Support and Suggestions
-We do not use GitHub Issues for questions. Please submit all inquiries and suggestions to the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/19).
+We do not use GitHub Issues for questions. Please submit all inquiries and suggestions to the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/18).
 
 ## Submitting Presets
-You are welcome to submit multiple presets at once. We do not accept configuration files (`.samplv1.conf`) used to supply banks. To propose new banks, please open a discussion thread in the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/19).
+You are welcome to submit multiple presets at once. We do not accept configuration files (`.samplv1.conf`) used to supply banks. To propose new banks, please open a discussion thread in the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/18.
 
 ### Submission Methods
 * **Via GitHub:** Fork this repository, create a branch, and submit a Pull Request with your presets (including those samples that are not in the repository).
-* **Via Forum:** Register at the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/19) and post your presets (including those samples that are not in the repository) inside a compressed `.zip` file.
+* **Via Forum:** Register at the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/18) and post your presets (including those samples that are not in the repository) inside a compressed `.zip` file.
