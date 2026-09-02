@@ -1,15 +1,17 @@
 # List of Authorized Resources
 
+If you'd like to propose additional resources that enable creating, modifying, or sourcing samples that can be released under a universal license, please post them on the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/samplv1) and we'll discuss them.
+
 ## General Purpose
 
 ### Samples
 
-* **SamplV1 Factory Presets**
-  * *Description:* Since SamplV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall[...]
-  * *Link:* [SamplV1 Factory Presets](https://github.com/rncbc/samplv1-preset)
+* **DrumkV1 Factory Presets**
+  * *Description:* Since DrumkV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
+  * *Link:* [DrumkV1 Factory Presets](https://github.com/rncbc/drumkv1-preset)
 
 * **SamplV1 Factory Presets**
-  * *Description:* Since SamplV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overal[...]
+  * *Description:* Since SamplV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
   * *Link:* [SamplV1 Factory Presets](https://github.com/rncbc/samplv1-preset)
 
 ### Synths
@@ -19,7 +21,7 @@
   * *Link:* [SynthV1](https://sourceforge.net/projects/synthv1/)
  
 * **Yoshimi (Synth — Yoshimi Project)**
-  * *Description:* A sophisticated software synthesizer with additive, subtractive, pad, vector, and wavetable synthesis capabilities. Its preset banks also include electronic drum kits, synthesiz[...]
+  * *Description:* A sophisticated software synthesizer with additive, subtractive, pad, vector, and wavetable synthesis capabilities. Its preset banks also include electronic drum kits, synthesized acoustic-style drum sounds, and a large collection of melodic synth sounds.
   * *Link:* [Yoshimi](https://github.com/Yoshimi/yoshimi/)
 
 * **PadthV1 (Rui Nuno Capela)**
