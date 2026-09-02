@@ -1,14 +1,13 @@
 <!DOCTYPE samplv1>
-<preset name="InsideTank" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
+<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="InsideTank">
  <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <samples>
   <sample name="GEN1_SAMPLE" index="0">
    <filename>wave-48-C3.ogg</filename>
-   <octaves>4</octaves>
-   <offset-start>1764</offset-start>
+   <offset-start>2346</offset-start>
    <offset-end>102400</offset-end>
-   <loop-start>66133</loop-start>
-   <loop-end>73600</loop-end>
+   <loop-start>44800</loop-start>
+   <loop-end>69120</loop-end>
    <loop-end-release>0</loop-end-release>
    <loop-fade>0</loop-fade>
    <loop-zero>1</loop-zero>
@@ -22,13 +21,13 @@
   <param name="GEN1_OCTAVE" index="8">0</param>
   <param name="GEN1_TUNING" index="9">0</param>
   <param name="GEN1_GLIDE" index="10">0</param>
-  <param name="GEN1_ENVTIME" index="11">0.5</param>
+  <param name="GEN1_ENVTIME" index="11">1</param>
   <param name="DCF1_ENABLED" index="12">1</param>
   <param name="DCF1_CUTOFF" index="13">0.6</param>
-  <param name="DCF1_RESO" index="14">0.8</param>
+  <param name="DCF1_RESO" index="14">0.7</param>
   <param name="DCF1_TYPE" index="15">0</param>
   <param name="DCF1_SLOPE" index="16">0</param>
-  <param name="DCF1_ENVELOPE" index="17">1</param>
+  <param name="DCF1_ENVELOPE" index="17">0.3</param>
   <param name="DCF1_ATTACK" index="18">0</param>
   <param name="DCF1_DECAY" index="19">0.6</param>
   <param name="DCF1_SUSTAIN" index="20">0</param>
@@ -52,7 +51,7 @@
   <param name="DCA1_ENABLED" index="38">1</param>
   <param name="DCA1_VOLUME" index="39">0.2</param>
   <param name="DCA1_ATTACK" index="40">0</param>
-  <param name="DCA1_DECAY" index="41">0.3</param>
+  <param name="DCA1_DECAY" index="41">0.5</param>
   <param name="DCA1_SUSTAIN" index="42">0</param>
   <param name="DCA1_RELEASE" index="43">0.8</param>
   <param name="OUT1_WIDTH" index="44">1</param>
@@ -79,7 +78,7 @@
   <param name="PHA1_FEEDB" index="65">0.2</param>
   <param name="PHA1_DEPTH" index="66">0.5</param>
   <param name="PHA1_DAFT" index="67">0.5</param>
-  <param name="DEL1_WET" index="68">0.5</param>
+  <param name="DEL1_WET" index="68">0.3</param>
   <param name="DEL1_DELAY" index="69">0.2</param>
   <param name="DEL1_FEEDB" index="70">0.1</param>
   <param name="DEL1_BPM" index="71">180</param>

@@ -1,5 +1,5 @@
 <!DOCTYPE samplv1>
-<preset name="80SlowWinds" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
+<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="80SlowWinds">
  <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <samples>
   <sample name="GEN1_SAMPLE" index="0">
@@ -27,7 +27,7 @@
   <param name="DCF1_RESO" index="14">0</param>
   <param name="DCF1_TYPE" index="15">0</param>
   <param name="DCF1_SLOPE" index="16">2</param>
-  <param name="DCF1_ENVELOPE" index="17">1</param>
+  <param name="DCF1_ENVELOPE" index="17">0.3</param>
   <param name="DCF1_ATTACK" index="18">0.3</param>
   <param name="DCF1_DECAY" index="19">0.2</param>
   <param name="DCF1_SUSTAIN" index="20">0.5</param>

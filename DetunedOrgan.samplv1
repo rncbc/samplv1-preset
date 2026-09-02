@@ -1,5 +1,5 @@
 <!DOCTYPE samplv1>
-<preset name="DetunedOrgan" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
+<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="DetunedOrgan">
  <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <samples>
   <sample name="GEN1_SAMPLE" index="0">
@@ -23,11 +23,11 @@
   <param name="GEN1_GLIDE" index="10">0</param>
   <param name="GEN1_ENVTIME" index="11">0.5</param>
   <param name="DCF1_ENABLED" index="12">1</param>
-  <param name="DCF1_CUTOFF" index="13">1</param>
+  <param name="DCF1_CUTOFF" index="13">0.9</param>
   <param name="DCF1_RESO" index="14">0.4</param>
   <param name="DCF1_TYPE" index="15">0</param>
   <param name="DCF1_SLOPE" index="16">0</param>
-  <param name="DCF1_ENVELOPE" index="17">1</param>
+  <param name="DCF1_ENVELOPE" index="17">-0.6</param>
   <param name="DCF1_ATTACK" index="18">0</param>
   <param name="DCF1_DECAY" index="19">0.2</param>
   <param name="DCF1_SUSTAIN" index="20">0.5</param>
@@ -53,7 +53,7 @@
   <param name="DCA1_ATTACK" index="40">0.05</param>
   <param name="DCA1_DECAY" index="41">1</param>
   <param name="DCA1_SUSTAIN" index="42">0.8</param>
-  <param name="DCA1_RELEASE" index="43">0.5</param>
+  <param name="DCA1_RELEASE" index="43">0.4</param>
   <param name="OUT1_WIDTH" index="44">1</param>
   <param name="OUT1_PANNING" index="45">0</param>
   <param name="OUT1_FXSEND" index="46">1</param>
