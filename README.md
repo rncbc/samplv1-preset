@@ -15,10 +15,10 @@ Your presets and samples must be released strictly under the **Creative Commons 
 
 **To ensure that the samples we receive are universally usable, we only accept:**
 * Original acoustic recordings from the preset's author.
-* Samples from libraries or synthesizers included in our [list of Authorized Resources](https://github.com/rncbc/samplv1-preset/blob/main/AUTHORICED_RESOURCES.md).
+* Samples from libraries or synthesizers included in our [list of Authorized Resources](https://github.com/rncbc/samplv1-preset/blob/main/AUTHORIZED_RESOURCES.md).
 
 **Contributor Responsibility:**
-You are responsible for being the original author of the samples or for ensuring that it comes from our [list of Authorized Resources](https://github.com/rncbc/samplv1-preset/blob/main/AUTHORICED_RESOURCES.md).
+You are responsible for being the original author of the samples or for ensuring that it comes from our [list of Authorized Resources](https://github.com/rncbc/samplv1-preset/blob/main/AUTHORIZED_RESOURCES.md).
 
 **Take-down Policy:**
 If an copyright infringement is reported, the material will be verified and removed from the repository immediately.
