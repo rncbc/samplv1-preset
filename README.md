@@ -27,7 +27,7 @@ If an copyright infringement is reported, the material will be verified and remo
 
 * **Format:** All audio samples must be compressed in **OGG** format.
 * **Size:** No single audio sample may exceed **100 KiB** in size.
-* **Upload Criteria:** Upload a new audio sample only if absolutely necessary. We prioritize using existing base samples within the repository, transforming them using SamplV1's internal parameters and engine.
+* **Upload Criteria:** Upload a new audio sample only if absolutely necessary. We prioritize using existing base samples within the repository, transforming them using SamplV1's internal parameters.
 
 ### 4. Immutability of Presets and Samples
 **It is strictly forbidden to update or overwrite an existing preset or sample.** 
@@ -58,4 +58,4 @@ You are welcome to submit multiple presets at once. We do not accept configurati
 
 ### Submission Methods
 * **Via GitHub:** Fork this repository, create a branch, and submit a Pull Request with your presets (including those samples that are not in the repository).
-* **Via Forum:** Register at the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/18) and post your presets (including those samples that are not in the repository) inside a compressed `.zip` file.
+* **Via Forum:** Register at the [official SamplV1 forum](https://www.rncbc.org/drupal/forum/18) and post your presets (including those samples that are not in the repository) inside a compressed archive.
