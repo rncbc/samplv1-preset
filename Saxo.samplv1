@@ -1,10 +1,11 @@
 <!DOCTYPE samplv1>
 <preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Saxo">
+ <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <samples>
   <sample name="GEN1_SAMPLE" index="0">
    <filename>Sax-36-C2.ogg</filename>
    <offset-start>2205</offset-start>
-   <offset-end>242251</offset-end>
+   <offset-end>64398</offset-end>
    <loop-start>50318</loop-start>
    <loop-end>53846</loop-end>
    <loop-end-release>1</loop-end-release>
