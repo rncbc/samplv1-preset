@@ -49,7 +49,7 @@
   <param name="LFO1_SUSTAIN" index="36">0.1</param>
   <param name="LFO1_RELEASE" index="37">0.5</param>
   <param name="DCA1_ENABLED" index="38">1</param>
-  <param name="DCA1_VOLUME" index="39">1</param>
+  <param name="DCA1_VOLUME" index="39">0.9</param>
   <param name="DCA1_ATTACK" index="40">0.1</param>
   <param name="DCA1_DECAY" index="41">1</param>
   <param name="DCA1_SUSTAIN" index="42">0.4</param>
@@ -57,7 +57,7 @@
   <param name="OUT1_WIDTH" index="44">1</param>
   <param name="OUT1_PANNING" index="45">0</param>
   <param name="OUT1_FXSEND" index="46">1</param>
-  <param name="OUT1_VOLUME" index="47">1</param>
+  <param name="OUT1_VOLUME" index="47">0.5</param>
   <param name="DEF1_PITCHBEND" index="48">0.2</param>
   <param name="DEF1_MODWHEEL" index="49">0.2</param>
   <param name="DEF1_PRESSURE" index="50">0.2</param>
