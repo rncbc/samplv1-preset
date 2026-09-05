@@ -5,7 +5,7 @@
   <sample name="GEN1_SAMPLE" index="0">
    <filename>wave-40-E2.ogg</filename>
    <octaves>1</octaves>
-   <offset-start>1049</offset-start>
+   <offset-start>1764</offset-start>
    <offset-end>83968</offset-end>
   </sample>
  </samples>
