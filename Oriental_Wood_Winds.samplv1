@@ -2,6 +2,7 @@
 <preset name="Oriental_Wood_Winds" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>The samples used were recorded directly from SynthV1 Factory presets</comments>
  <samples>
+  <sample-rate>44100</sample-rate>
   <sample index="0" name="GEN1_SAMPLE">
    <filename>36-Kick-Urban.ogg</filename>
    <offset-start>24662</offset-start>

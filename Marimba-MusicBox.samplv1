@@ -5,6 +5,7 @@
   The samples used were recorded directly from SynthV1 Factory presets.
  </comments>
  <samples>
+  <sample-rate>44100</sample-rate>
   <sample name="GEN1_SAMPLE" index="0">
    <filename>wave-46-As2.ogg</filename>
    <offset-start>4410</offset-start>
