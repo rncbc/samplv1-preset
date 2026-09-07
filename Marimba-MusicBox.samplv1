@@ -1,5 +1,5 @@
 <!DOCTYPE samplv1>
-<preset collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal" name="Marimba-MusicBox">
+<preset name="Marimba-MusicBox" collection="Vee One Factory" autor="G3N-es" license="Creative Commons Zero (CC0) 1.0 Universal">
  <comments>
   The Music box operate from the Note/Key: F4/64.
   The samples used were recorded directly from SynthV1 Factory presets.
