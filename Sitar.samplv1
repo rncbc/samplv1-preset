@@ -19,8 +19,8 @@
   <param name="GEN1_REVERSE" index="1">1</param>
   <param name="GEN1_OFFSET" index="2">1</param>
   <param name="GEN1_LOOP" index="5">1</param>
-  <param name="GEN1_OCTAVE" index="8">1.8</param>
-  <param name="GEN1_TUNING" index="9">0.7</param>
+  <param name="GEN1_OCTAVE" index="8">1.863</param>
+  <param name="GEN1_TUNING" index="9">0</param>
   <param name="GEN1_GLIDE" index="10">0</param>
   <param name="GEN1_ENVTIME" index="11">0.7</param>
   <param name="DCF1_ENABLED" index="12">1</param>

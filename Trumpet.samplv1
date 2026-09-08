@@ -19,7 +19,7 @@
   <param name="GEN1_REVERSE" index="1">0</param>
   <param name="GEN1_OFFSET" index="2">1</param>
   <param name="GEN1_LOOP" index="5">1</param>
-  <param name="GEN1_OCTAVE" index="8">0</param>
+  <param name="GEN1_OCTAVE" index="8">0.004</param>
   <param name="GEN1_TUNING" index="9">0</param>
   <param name="GEN1_GLIDE" index="10">0</param>
   <param name="GEN1_ENVTIME" index="11">0.5</param>
