@@ -6,12 +6,9 @@ If you'd like to propose additional resources that enable creating, modifying, o
 
 ### Samples
 
-* **DrumkV1 Factory Presets**
-  * *Description:* Since DrumkV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
+* **DrumkV1 & SamplV1 Factory Presets**
+  * *Description:* Since these are samplers, their factory presets already include audio samples. Before looking elsewhere, check whether any of the existing samples fit your needs. This helps keep the repository lightweight.
   * *Link:* [DrumkV1 Factory Presets](https://github.com/rncbc/drumkv1-preset)
-
-* **SamplV1 Factory Presets**
-  * *Description:* Since SamplV1 is a sampler, its factory presets already include audio samples. Before looking elsewhere, check if any existing sample fits your needs. This helps keep the overall repository lightweight.
   * *Link:* [SamplV1 Factory Presets](https://github.com/rncbc/samplv1-preset)
 
 ### Synths
