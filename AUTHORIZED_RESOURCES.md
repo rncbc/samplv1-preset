@@ -25,6 +25,10 @@ If you'd like to propose additional resources that enable creating, modifying, o
   * *Description:* An old-school additive synthesizer. Its factory presets are highly inspiring for creating experimental samples.
   * *Link:* [PadthV1](https://sourceforge.net/projects/padthv1/)
 
+* **Oxe FM (Daniel Moura)**
+  * *Description:* FM synthesizer with a distinctive FM character. Its factory presets include recreations of classic analog drum machines and FM pianos, along with a broad selection of melodic sounds.
+  * *Link:* [Oxe FM](https://github.com/oxesoft/oxefmsynth)
+
 ## Pianos, Electric Pianos, Acoustic Instruments, and Orchestral Material
 
 ### Samples
